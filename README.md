@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi everyone! 👋
 
 <!--
 **patriciacatandi/patriciacatandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+:frowning_woman: I'm Patricia and I <br>
+:telescope:	am physicist who <br>
+:heart: loves Data Science <br>
+:woman_student: and loves to learn new things <br>
