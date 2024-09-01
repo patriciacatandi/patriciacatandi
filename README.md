@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 ![Tableau](https://img.shields.io/badge/Tableau-0?style=for-the-badge&logo=SQL&logoColor=white&color=violet)&nbsp;
 
 
-#### Studying in this moment:
+#### Studying right now:
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)&nbsp;
